@@ -1,16 +1,21 @@
-# ICT-Project3
+# ICT-Project 3
 
-This is a project about cyber security.
+Topic: Generation of Adversarial Samples for Intrusion Detection Systems
 
-* Lesson 1: Spark with Derek Meng from Alibaba
-* Lesson 2: Cyber Security with Ruan He from Tencent
+Members:
 
-## TODO
-1. Confirm the topic
-2. Tasks
-3. Paper
-4. Review
+* Project Manager: FEI
+* AI Architecture: MU
+* R & D: LEI & LIU
+* Article: ZONG
 
 
-* Boundary Attack Demo: https://github.com/greentfrapp/boundary-attack
-* Foolbox: https://github.com/bethgelab/foolbox
+
+Road Map:
+
+* Paper Review: Nov. 6
+* New Paper Review + Research Modules Decision + Task Distribution: Nov. 15
+* Related Work Summary: Nov. 18
+* Experiment and Discussion: Nov. 15 - Dec. 15
+* Article Writing: Dec. 15 - Jan. 10
+
