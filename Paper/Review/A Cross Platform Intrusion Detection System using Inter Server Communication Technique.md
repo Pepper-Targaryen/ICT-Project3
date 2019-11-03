@@ -11,7 +11,7 @@ types of intrusions: SQLi (SQL injection) and XSS (Cross-site scripting).
 SQLi exploits the dynamically generated SQL statements for client input and can extract
 sensitive data from the database of compromised sites. XSS involves execution of script or
 malicious code on the user’s web browser thus allowing access to any cookies, sessions etc.
-It contains the following fi ve phases:
+It contains the following five phases:
 * Detection intrusion by PHPIDS APIs.
 * Preventing the attacks using IDS.
 * Logging the attacks into Database. It contains id, server, language, database, and label
