@@ -12,7 +12,7 @@
 
 ​    Intrusion Detection Systems (IDS) have been in existence for many years now, but they fall short in efficiently detecting zero-day attacks. This paper presents an organic combination of Semantic Link Networks (SLN) and dynamic semantic graph generation for the on the fly discovery of zero-day attacks using the Spark Streaming platform for parallel detection.
 
-![Process Flow of Overall Approach](Images/img1.png)
+![Process Flow of Overall Approach](./Images/img1.png)
 
 ​    The article proposed to train the classifier as usual which is based on KNN and in addition created a semantic link network which is actually a graph of sample relations. The nodes would be either attacks or normal access and the edge weight represents the similarity between two nodes. The SLN would update itself after detecting a zero-day attack.
 
