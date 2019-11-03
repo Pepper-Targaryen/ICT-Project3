@@ -12,12 +12,12 @@ SQLi exploits the dynamically generated SQL statements for client input and can 
 sensitive data from the database of compromised sites. XSS involves execution of script or
 malicious code on the user’s web browser thus allowing access to any cookies, sessions etc.
 It contains the following fi ve phases:
-(a) Detection intrusion by PHPIDS APIs.
-(b) Preventing the attacks using IDS.
-(c) Logging the attacks into Database. It contains id, server, language, database, and label
+* Detection intrusion by PHPIDS APIs.
+* Preventing the attacks using IDS.
+* Logging the attacks into Database. It contains id, server, language, database, and label
 of vulnerability. It can also include timestamps.
-(d) Mining the web log using tree traversal.
-(e) Generate report.
+* Mining the web log using tree traversal.
+* Generate report.
 
 ## Advantages:
 
