@@ -17,4 +17,4 @@ types of intrusions:
 Thus, there are finally 5 type of results: Not an intrusion, DoS, R2L, U2R, and Probe.
 
 Then we use RNN to do this. The dataset in this paper is NSL-KDD. Each trafic record has 41 features:
-![](.\images\2_1.jpg)
+![](.\Images\2_1.jpg)
