@@ -6,7 +6,7 @@ Members:
 
 * Project Manager: FEI
 * AI Architecture: MU
-* R & D: LEI & LIU
+* R & D: LIU & WANG
 * Article: ZONG
 
 
