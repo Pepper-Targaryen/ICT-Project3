@@ -14,8 +14,10 @@ Members:
 Road Map:
 
 * Paper Review: Nov. 6
-* New Paper Review + Research Modules Decision + Task Distribution: Nov. 15
-* Related Work Summary: Nov. 18
+* Paper Review (Adversarial): Nov. 14
+* Related Work Part 1: Nov. 16
+* Paper Review (Detection): Nov. 21
+* Related Work Part 2: Nov. 23
 * Experiment and Discussion: Nov. 15 - Dec. 15
 * Article Writing: Dec. 15 - Jan. 10
 
