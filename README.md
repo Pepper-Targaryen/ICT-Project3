@@ -26,6 +26,6 @@ Road Map:
 新的数据集 : [ISCX-URL-2016](https://www.unb.ca/cic/datasets/url-2016.html), [数据集集合](https://github.com/alm8i/ChCNN)(包括ISCX-URL-2016)
 
 ## TODO
-1. 可以用的数据集 https://www.sysnet.ucsd.edu/projects/url/  https://github.com/savan77/Malicious-URL-Detection-using-Machine-Learning
+1. 可以用的数据集 https://www.sysnet.ucsd.edu/projects/url/ (无数据集来源)  https://github.com/savan77/Malicious-URL-Detection-using-Machine-Learning （无model） https://github.com/BenoitLaures/malicious_urls_detection （需要自己训练）
 2. 对于这个模型重复做3个adversarial attack
 3. Countermesure: classifier for adversarial and normal (攻击和正常) samples || train with adversarial samples
