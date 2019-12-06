@@ -24,3 +24,8 @@ Road Map:
 针对CSIC2010数据集，检测模型 : [传统机器学习方法](https://github.com/Monkey-D-Groot/Machine-Learning-on-CSIC-2010/blob/master/csic.ipynb)
 
 新的数据集 : [ISCX-URL-2016](https://www.unb.ca/cic/datasets/url-2016.html), [数据集集合](https://github.com/alm8i/ChCNN)(包括ISCX-URL-2016)
+
+## TODO
+1. 可以用的数据集 https://www.sysnet.ucsd.edu/projects/url/  https://github.com/savan77/Malicious-URL-Detection-using-Machine-Learning
+2. 对于这个模型重复做3个adversarial attack
+3. Countermesure: classifier for adversarial and normal (攻击和正常) samples || train with adversarial samples
